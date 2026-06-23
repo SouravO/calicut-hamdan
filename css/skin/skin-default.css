@@ -1,0 +1,194 @@
+/*
+ * Title:   Zone - Tours and Travel HTML Template
+ * Author:  QTC Media
+ */
+/* ------------------------------
+   Skin default
+   ---------------------------- */
+#header .nav-header ul li a span.icon-phone:after {
+  background: url(../../images/phone.png); }
+
+.sec-title .img-border:after {
+  background: url(../../images/shape.png) no-repeat center center; }
+
+.latest-news.home-two .single-latest-news .img-box .zt-overlay-scale {
+  background: #225b9f;
+  background: #225b9f; }
+
+.color-primary {
+  color: #225b9f !important; }
+
+.zt-overlay-background-primary {
+  background: #225b9f;
+  background: #225b9f; }
+
+.modal-dialog button.close:hover {
+  background: #225b9f; }
+
+.footer-top-cta {
+  background: #225b9f; }
+
+.zt-default {
+  border-color: #225b9f;
+  color: #225b9f; }
+  .zt-default span {
+    color: #225b9f; }
+  .zt-default:hover {
+    background: #225b9f;
+    border-color: #225b9f; }
+
+.zt-primary {
+  background: #225b9f;
+  border-color: #225b9f; }
+  .zt-primary:active {
+    border-color: #225b9f;
+    background: #225b9f; }
+
+.owl-carousel.type-1 .owl-controls .owl-nav [class*=owl-]:hover {
+  color: #225b9f;
+  border-color: #225b9f; }
+
+#top-bar .login a:hover {
+  color: #225b9f; }
+#top-bar .form-search-wrap a.close-search:hover {
+  background-color: #225b9f; }
+#top-bar .form-search-wrap .form-search-box form .input-addon span.fa {
+  color: #225b9f; }
+
+#header.home-three .nav-holder .nav-footer ul.nav > li:hover > a:after, #header.home-three .nav-holder .nav-footer ul.nav > li.active > a:after {
+  border-bottom: 10px solid #225b9f; }
+
+.nav-holder .nav-header > ul > li > ul.submenu li .text-phone-number .phone-number a {
+  color: #225b9f; }
+.nav-holder .nav-footer ul.nav > li:hover > a, .nav-holder .nav-footer ul.nav > li.active > a {
+  color: #225b9f; }
+  .nav-holder .nav-footer ul.nav > li:hover > a:after, .nav-holder .nav-footer ul.nav > li.active > a:after {
+    background: #225b9f; }
+.nav-holder .nav-footer ul.nav > li ul.submenu li:hover > a {
+  color: #225b9f; }
+
+.filter-tour.home-three {
+  background-color: #225b9f; }
+  .filter-tour.home-three .filter-wrap .filter-box button:before {
+    border: #225b9f solid 4px; }
+
+.choose-tour .box-awesome-service:hover .box-icon [class*="flaticon-"]:before {
+  color: #225b9f; }
+
+.video-tour.home-three .box .box-icon .border {
+  border: 1px solid #225b9f; }
+.video-tour.home-three .box .box-icon .fa:after {
+  background-color: #225b9f; }
+.video-tour.home-three .img-video-box {
+  border-bottom: 5px solid #225b9f; }
+
+.popular-services .tour-list-box .overlay-content .price h3 {
+  color: #225b9f; }
+
+.location-slider .box-content .active {
+  color: #225b9f; }
+.location-slider .box-content ul li a:hover {
+  color: #225b9f; }
+.location-slider .owl-controls .owl-dots .owl-dot.active span {
+  background: #225b9f; }
+
+.top-location .top-location-slider .owl-item .caption h3 {
+  color: #225b9f; }
+
+#footer .about-widget a:hover .fa {
+  color: #225b9f; }
+#footer .post-news-widget ul li a:hover {
+  color: #225b9f; }
+#footer .post-link-widget ul li a:hover {
+  color: #225b9f; }
+#footer.home-three .about-widget .fa {
+  color: #225b9f; }
+
+.social-footer li a:hover {
+  color: #225b9f; }
+
+.footer-bottom .social-footer li a:hover, .footer-bottom .social-footer li a span:hover {
+  color: #225b9f; }
+.footer-bottom .menu-footer li a:hover {
+  color: #225b9f; }
+
+#slider1 .color-primary {
+  color: #225b9f !important; }
+
+#slider2 .banner-caption-scroll a:hover {
+  background-color: #225b9f; }
+
+#slider3 .color-primary {
+  color: #225b9f !important; }
+#slider3 .banner-caption-scroll {
+  border: 1px solid #225b9f; }
+  #slider3 .banner-caption-scroll:hover {
+    background: #225b9f !important; }
+
+.destinations .destination-content-wrap .tab li a:hover, .destinations .destination-content-wrap .tab li a:focus {
+  background: #225b9f; }
+  .destinations .destination-content-wrap .tab li a:hover:after, .destinations .destination-content-wrap .tab li a:focus:after {
+    border-top: 17px solid #225b9f; }
+.destinations .destination-content-wrap .tab li.active a {
+  background: #225b9f; }
+  .destinations .destination-content-wrap .tab li.active a:after {
+    border-top: 17px solid #225b9f; }
+.destinations .destination-content-wrap .tab-content ul li:before {
+  color: #225b9f; }
+.destinations .destination-content-wrap .destination-content blockquote {
+  border-left: 5px solid #225b9f; }
+.destinations .destination-sidebar-wrap .sidebar-order .price .box-price span.number {
+  color: #225b9f; }
+.destinations .destination-rivew-wrap .destination-rivew-slider li span {
+  color: #225b9f; }
+
+.checkout .checkout-content-wrap .box .box-title h2 span.sort {
+  background-color: #225b9f; }
+.checkout .checkbox label:before {
+  border: 2px solid #225b9f; }
+.checkout .checkbox input[type=radio]:checked + label:before {
+  color: #225b9f; }
+.checkout .checkbox input[type=checkbox]:checked + label:before {
+  color: #225b9f; }
+.checkout .checkout-sidebar-wrap .sidebar-footer {
+  background-color: #225b9f; }
+
+.blog .blog-wrap .blog-list-item .blog-content a.read-more:hover {
+  color: #225b9f; }
+
+.blog-detail .blog-wrap .blog-content .content blockquote {
+  border-left: 5px solid #225b9f; }
+.blog-detail .blog-wrap .blog-next-page a:hover {
+  color: #225b9f; }
+.blog-detail .blog-wrap .blog-comment .single-comment .comment .text-box h3 a {
+  color: #225b9f; }
+
+.pagination-wrap ul.pagination li.active a, .pagination-wrap ul.pagination li.active span {
+  background-color: #225b9f; }
+.pagination-wrap ul.pagination li:hover a, .pagination-wrap ul.pagination li:hover span, .pagination-wrap ul.pagination li:active a, .pagination-wrap ul.pagination li:active span, .pagination-wrap ul.pagination li:focus a, .pagination-wrap ul.pagination li:focus span, .pagination-wrap ul.pagination li:visited a, .pagination-wrap ul.pagination li:visited span {
+  background-color: #225b9f; }
+
+.sidebar-widget .widget-title:after {
+  background: #225b9f; }
+.sidebar-widget .widget-content .form .input-addon span.fa {
+  color: #225b9f; }
+.sidebar-widget .widget-content ul.cagetory li:hover a {
+  color: #225b9f; }
+.sidebar-widget .widget-content ul.tag-cloud li a:hover {
+  background: #225b9f; }
+
+.contact-page .contact-info .box-awesome-service .box-icon {
+  color: #225b9f; }
+
+.product_grid_item .product_image .onsale {
+  background: #225b9f; }
+.product_grid_item .product_content .product_price .price {
+  color: #225b9f; }
+.product_grid_item .product_content .product_action .product_link a:hover {
+  color: #225b9f; }
+
+@media (max-width: 979px) {
+  .nav-holder > .nav-footer ul.nav > li:hover > a {
+    color: #225b9f !important; } }
+
+/*# sourceMappingURL=skin-default.css.map */
